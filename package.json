@@ -1,0 +1,23 @@
+{
+  "name": "usingnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404HoneyBadger/day-26-npm.git"
+  },
+  "author": "Natalee Nieves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/404HoneyBadger/day-26-npm/issues"
+  },
+  "homepage": "https://github.com/404HoneyBadger/day-26-npm#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
